@@ -5,6 +5,9 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'Strength Up Fitness | Best Gym in Kalyan',
   description: 'Premium local gym in Kalyan offering strength training, cardio, and personalized fitness programs.',
+  icons: {
+    icon: [],
+  },
 };
 
 export default function RootLayout({
