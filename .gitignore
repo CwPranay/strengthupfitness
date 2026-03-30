@@ -9,8 +9,8 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
-/.agents
-.idx
+.idx/
+.agents/
 
 # testing
 /coverage
