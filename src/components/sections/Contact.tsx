@@ -29,7 +29,7 @@ export function Contact() {
                 <MapPin className="w-8 h-8 text-primary" />
                 <div>
                   <p className="text-sm font-bold uppercase tracking-widest text-muted-foreground">Location</p>
-                  <p className="text-2xl font-black">Kalyan, Maharashtra</p>
+                  <p className="text-2xl font-black">Strength Up Fitness, Kalyan</p>
                 </div>
               </div>
 
@@ -51,9 +51,8 @@ export function Contact() {
           </div>
 
           <div className="h-[500px] w-full bg-secondary/30 relative">
-            {/* Google Maps Embed Placeholder - would typically use an actual embed code here */}
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120562.13570146468!2d73.04944917454807!3d19.23190825319808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be796874e0d421d%3A0x6e9a656461942d47!2sKalyan%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1714828112345!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15069.915749864094!2d73.1249098871582!3d19.217947900000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7957d9112544b%3A0x2949abbf9e8e57c8!2sStrength%20Up%20Fitness!5e0!3m2!1sen!2sin!4v1774850192497!5m2!1sen!2sin"
               width="100%"
               height="100%"
               style={{ border: 0 }}
