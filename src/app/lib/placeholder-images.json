@@ -4,86 +4,74 @@
     {
       "id": "hero-bg",
       "description": "Modern gym interior with professional equipment",
-      "imageUrl": "https://picsum.photos/seed/gymhero/1920/1080",
-      "imageHint": "gym interior professional"
+      "imageUrl": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "gym interior"
     },
     {
       "id": "about-gym",
       "description": "Close up of gym weight rack",
-      "imageUrl": "https://picsum.photos/seed/gymabout/800/600",
+      "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=2070&auto=format&fit=crop",
       "imageHint": "gym weights"
     },
     {
-      "id": "service-strength",
-      "description": "Person performing bench press",
-      "imageUrl": "https://picsum.photos/seed/strength/600/400",
-      "imageHint": "strength training"
-    },
-    {
-      "id": "service-cardio",
-      "description": "Treadmills in a row",
-      "imageUrl": "https://picsum.photos/seed/cardio/600/400",
-      "imageHint": "cardio equipment"
-    },
-    {
-      "id": "service-weightloss",
-      "description": "Fitness trainer helping client",
-      "imageUrl": "https://picsum.photos/seed/weightloss/600/400",
-      "imageHint": "weight loss"
-    },
-    {
-      "id": "service-personal",
-      "description": "One-on-one personal training session",
-      "imageUrl": "https://picsum.photos/seed/pt/600/400",
-      "imageHint": "personal trainer"
-    },
-    {
       "id": "trainer-1",
-      "description": "Professional male fitness trainer",
-      "imageUrl": "https://picsum.photos/seed/trainer1/400/500",
-      "imageHint": "fitness trainer male"
+      "description": "Male fitness trainer focusing on form",
+      "imageUrl": "https://images.unsplash.com/photo-1584466977773-e625c37cdd50?q=80&w=687&auto=format&fit=crop",
+      "imageHint": "male trainer"
     },
     {
       "id": "trainer-2",
-      "description": "Professional female fitness trainer",
-      "imageUrl": "https://picsum.photos/seed/trainer2/400/500",
-      "imageHint": "fitness trainer female"
+      "description": "Male bodybuilder trainer",
+      "imageUrl": "https://images.unsplash.com/photo-1611672585731-fa10603fb9e0?q=80&w=687&auto=format&fit=crop",
+      "imageHint": "male bodybuilder"
+    },
+    {
+      "id": "service-strength",
+      "description": "Heavy weight training equipment",
+      "imageUrl": "https://images.unsplash.com/photo-1584952811565-c4c4031805a8?q=80&w=687&auto=format&fit=crop",
+      "imageHint": "strength equipment"
+    },
+    {
+      "id": "service-cardio",
+      "description": "Modern cardio area",
+      "imageUrl": "https://images.unsplash.com/photo-1521805103424-d8f8430e8933?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "cardio area"
     },
     {
       "id": "gallery-1",
-      "description": "Gym area with squat racks",
-      "imageUrl": "https://picsum.photos/seed/g1/600/600",
-      "imageHint": "gym equipment"
+      "description": "Professional gym facility overview",
+      "imageUrl": "https://images.unsplash.com/photo-1593079831268-3381b0db4a77?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "gym facility"
     },
     {
       "id": "gallery-2",
-      "description": "Cardio section overview",
-      "imageUrl": "https://picsum.photos/seed/g2/600/600",
-      "imageHint": "cardio machines"
+      "description": "Dumbbells and weights section",
+      "imageUrl": "https://images.unsplash.com/photo-1637430308606-86576d8fef3c?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "gym dumbbells"
     },
     {
       "id": "gallery-3",
-      "description": "Dumbbell rack setup",
-      "imageUrl": "https://picsum.photos/seed/g3/600/600",
-      "imageHint": "dumbbells rack"
+      "description": "Local Indian gym atmosphere",
+      "imageUrl": "https://images.unsplash.com/photo-1693214674477-1159bddf1598?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "indian gym"
     },
     {
       "id": "gallery-4",
-      "description": "Yoga and stretching area",
-      "imageUrl": "https://picsum.photos/seed/g4/600/600",
-      "imageHint": "yoga studio"
+      "description": "Gym training zone",
+      "imageUrl": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "gym zone"
     },
     {
       "id": "gallery-5",
-      "description": "Locker room modern design",
-      "imageUrl": "https://picsum.photos/seed/g5/600/600",
-      "imageHint": "modern gym"
+      "description": "Gym equipment detail",
+      "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "gym detail"
     },
     {
       "id": "gallery-6",
-      "description": "Entrance lobby of the gym",
-      "imageUrl": "https://picsum.photos/seed/g6/600/600",
-      "imageHint": "gym lobby"
+      "description": "Treadmills row",
+      "imageUrl": "https://images.unsplash.com/photo-1521805103424-d8f8430e8933?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "gym machines"
     }
   ]
 }

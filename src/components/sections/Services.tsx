@@ -14,14 +14,14 @@ const services = [
     imgId: "service-cardio",
   },
   {
-    title: "Weight Loss Programs",
+    title: "Weight Loss",
     desc: "Dedicated weight management plans tailored to your specific body goals.",
-    imgId: "service-weightloss",
+    imgId: "gallery-1",
   },
   {
-    title: "Personal Training",
+    title: "Personal Coaching",
     desc: "One-on-one sessions with professional trainers to accelerate your results.",
-    imgId: "service-personal",
+    imgId: "trainer-1",
   },
 ];
 

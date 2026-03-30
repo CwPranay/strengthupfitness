@@ -9,7 +9,6 @@ import { Trainers } from "@/components/sections/Trainers";
 import { Gallery } from "@/components/sections/Gallery";
 import { Reviews } from "@/components/sections/Reviews";
 import { Contact } from "@/components/sections/Contact";
-import { FitnessAssistant } from "@/components/sections/FitnessAssistant";
 import { Footer } from "@/components/sections/Footer";
 import { FloatingCTA } from "@/components/FloatingCTA";
 
@@ -22,7 +21,6 @@ export default function Home() {
       <About />
       <Membership />
       <Services />
-      <FitnessAssistant />
       <Trainers />
       <Gallery />
       <Reviews />

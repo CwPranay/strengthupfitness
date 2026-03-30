@@ -1,4 +1,5 @@
+
 import { config } from 'dotenv';
 config();
 
-import '@/ai/flows/generate-fitness-advice.ts';
+// Flows removed as AI features were decommissioned by request

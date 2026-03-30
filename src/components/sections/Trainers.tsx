@@ -9,8 +9,8 @@ const trainers = [
     imgId: "trainer-1",
   },
   {
-    name: "Neha Patil",
-    role: "Cardio Specialist",
+    name: "Arjun Deshmukh",
+    role: "Bodybuilding Specialist",
     imgId: "trainer-2",
   },
 ];
